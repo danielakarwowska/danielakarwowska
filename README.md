@@ -12,7 +12,7 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/storybook/storybook-original.svg" title="Storybook" alt="Storybook" width="40" height="40"/>
 
 
-#### Oprogramowanie & technologie:
+#### Software and technologies
  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" title="VSC" alt="VSC" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" title="GH" alt="GH" width="40" height="40"/
 
